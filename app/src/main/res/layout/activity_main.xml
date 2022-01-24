@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:onClick="clickButton"
         android:text="Button"
-        app:backgroundTint="#FFF59D"
+        app:backgroundTint="#D6FF9D"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
